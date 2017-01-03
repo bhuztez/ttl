@@ -1,0 +1,1 @@
+g++ -Wall -Wextra -Werror -Iinclude -std=gnu++14 -o main main.cpp
